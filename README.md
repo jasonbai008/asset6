@@ -1,5 +1,6 @@
 # asset6
-new asset with cloudflare
+
+个人博客相册资源，已在Cloudflare同步部署
 
 ## 资源地址示例：
 
